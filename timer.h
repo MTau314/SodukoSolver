@@ -16,10 +16,7 @@ public:
 	{
 	}
 
-	void reset()
-	{
-		m_beg = clock_t::now();
-	}
+	void reset() { m_beg = clock_t::now(); }
 
 	double elapsed() const
 	{
