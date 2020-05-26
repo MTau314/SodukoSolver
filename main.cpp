@@ -35,7 +35,6 @@ int main()
 	else
 		std::cout << "- - - - - - Unsolved! - - - - - -\n";
 	
-
 	//std::cout << "Time elapsed: " << timer.elapsed() << " seconds\n";
 	return 0;
 }
