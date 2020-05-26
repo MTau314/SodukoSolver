@@ -1,3 +1,4 @@
+/* Matthew Louigi Cabie Ong 2020 */
 #ifndef TIMER_H
 #define TIMER_H
 
